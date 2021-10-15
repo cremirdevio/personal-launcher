@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
-  "name": "Traversy Launcher",
-  "description": "Quick launch Traversy Media",
+  "name": "Personal Info Launcher",
+  "description": "A simple launcher for keeping all important profile and professional links",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
